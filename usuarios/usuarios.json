@@ -1,0 +1,252 @@
+[
+  {
+    "id": "usr_001",
+    "nombre": "Ana López",
+    "email": "ana.lópez@soundbeat.com"
+  },
+  {
+    "id": "usr_002",
+    "nombre": "Carlos Pérez",
+    "email": "carlos.pérez@soundbeat.com"
+  },
+  {
+    "id": "usr_003",
+    "nombre": "María Gómez",
+    "email": "maría.gómez@soundbeat.com"
+  },
+  {
+    "id": "usr_004",
+    "nombre": "Luis Ramírez",
+    "email": "luis.ramírez@soundbeat.com"
+  },
+  {
+    "id": "usr_005",
+    "nombre": "Sofía Hernández",
+    "email": "sofía.hernández@soundbeat.com"
+  },
+  {
+    "id": "usr_006",
+    "nombre": "Diego Torres",
+    "email": "diego.torres@soundbeat.com"
+  },
+  {
+    "id": "usr_007",
+    "nombre": "Valentina Cruz",
+    "email": "valentina.cruz@soundbeat.com"
+  },
+  {
+    "id": "usr_008",
+    "nombre": "Javier Castillo",
+    "email": "javier.castillo@soundbeat.com"
+  },
+  {
+    "id": "usr_009",
+    "nombre": "Fernanda Morales",
+    "email": "fernanda.morales@soundbeat.com"
+  },
+  {
+    "id": "usr_010",
+    "nombre": "Andrés Cabrera",
+    "email": "andrés.cabrera@soundbeat.com"
+  },
+  {
+    "id": "usr_011",
+    "nombre": "Paola Méndez",
+    "email": "paola.méndez@soundbeat.com"
+  },
+  {
+    "id": "usr_012",
+    "nombre": "Ricardo Ortega",
+    "email": "ricardo.ortega@soundbeat.com"
+  },
+  {
+    "id": "usr_013",
+    "nombre": "Camila Rivas",
+    "email": "camila.rivas@soundbeat.com"
+  },
+  {
+    "id": "usr_014",
+    "nombre": "Martín González",
+    "email": "martín.gonzález@soundbeat.com"
+  },
+  {
+    "id": "usr_015",
+    "nombre": "Daniela Fuentes",
+    "email": "daniela.fuentes@soundbeat.com"
+  },
+  {
+    "id": "usr_016",
+    "nombre": "Roberto Salazar",
+    "email": "roberto.salazar@soundbeat.com"
+  },
+  {
+    "id": "usr_017",
+    "nombre": "Gabriela López",
+    "email": "gabriela.lópez@soundbeat.com"
+  },
+  {
+    "id": "usr_018",
+    "nombre": "Hugo Mendoza",
+    "email": "hugo.mendoza@soundbeat.com"
+  },
+  {
+    "id": "usr_019",
+    "nombre": "Isabella Duarte",
+    "email": "isabella.duarte@soundbeat.com"
+  },
+  {
+    "id": "usr_020",
+    "nombre": "Mateo Vázquez",
+    "email": "mateo.vázquez@soundbeat.com"
+  },
+  {
+    "id": "usr_021",
+    "nombre": "Lucía Navarro",
+    "email": "lucía.navarro@soundbeat.com"
+  },
+  {
+    "id": "usr_022",
+    "nombre": "José Martínez",
+    "email": "josé.martínez@soundbeat.com"
+  },
+  {
+    "id": "usr_023",
+    "nombre": "Victoria Reyes",
+    "email": "victoria.reyes@soundbeat.com"
+  },
+  {
+    "id": "usr_024",
+    "nombre": "Emilio Sandoval",
+    "email": "emilio.sandoval@soundbeat.com"
+  },
+  {
+    "id": "usr_025",
+    "nombre": "Alejandra Ponce",
+    "email": "alejandra.ponce@soundbeat.com"
+  },
+  {
+    "id": "usr_026",
+    "nombre": "Sebastián Rojas",
+    "email": "sebastián.rojas@soundbeat.com"
+  },
+  {
+    "id": "usr_027",
+    "nombre": "Carolina Pérez",
+    "email": "carolina.pérez@soundbeat.com"
+  },
+  {
+    "id": "usr_028",
+    "nombre": "David Jiménez",
+    "email": "david.jiménez@soundbeat.com"
+  },
+  {
+    "id": "usr_029",
+    "nombre": "Patricia Cabrera",
+    "email": "patricia.cabrera@soundbeat.com"
+  },
+  {
+    "id": "usr_030",
+    "nombre": "Felipe Morales",
+    "email": "felipe.morales@soundbeat.com"
+  },
+  {
+    "id": "usr_031",
+    "nombre": "Andrea Ortiz",
+    "email": "andrea.ortiz@soundbeat.com"
+  },
+  {
+    "id": "usr_032",
+    "nombre": "Tomás Rivera",
+    "email": "tomás.rivera@soundbeat.com"
+  },
+  {
+    "id": "usr_033",
+    "nombre": "Mónica Estrada",
+    "email": "mónica.estrada@soundbeat.com"
+  },
+  {
+    "id": "usr_034",
+    "nombre": "Álvaro Herrera",
+    "email": "álvaro.herrera@soundbeat.com"
+  },
+  {
+    "id": "usr_035",
+    "nombre": "Marisol Díaz",
+    "email": "marisol.díaz@soundbeat.com"
+  },
+  {
+    "id": "usr_036",
+    "nombre": "Esteban García",
+    "email": "esteban.garcía@soundbeat.com"
+  },
+  {
+    "id": "usr_037",
+    "nombre": "Natalia Romero",
+    "email": "natalia.romero@soundbeat.com"
+  },
+  {
+    "id": "usr_038",
+    "nombre": "Enrique Lara",
+    "email": "enrique.lara@soundbeat.com"
+  },
+  {
+    "id": "usr_039",
+    "nombre": "Lorena Campos",
+    "email": "lorena.campos@soundbeat.com"
+  },
+  {
+    "id": "usr_040",
+    "nombre": "Mauricio Delgado",
+    "email": "mauricio.delgado@soundbeat.com"
+  },
+  {
+    "id": "usr_041",
+    "nombre": "Claudia Vásquez",
+    "email": "claudia.vásquez@soundbeat.com"
+  },
+  {
+    "id": "usr_042",
+    "nombre": "Gustavo Flores",
+    "email": "gustavo.flores@soundbeat.com"
+  },
+  {
+    "id": "usr_043",
+    "nombre": "Renata Molina",
+    "email": "renata.molina@soundbeat.com"
+  },
+  {
+    "id": "usr_044",
+    "nombre": "Francisco León",
+    "email": "francisco.león@soundbeat.com"
+  },
+  {
+    "id": "usr_045",
+    "nombre": "Julieta Vargas",
+    "email": "julieta.vargas@soundbeat.com"
+  },
+  {
+    "id": "usr_046",
+    "nombre": "Santiago Silva",
+    "email": "santiago.silva@soundbeat.com"
+  },
+  {
+    "id": "usr_047",
+    "nombre": "Adriana Soto",
+    "email": "adriana.soto@soundbeat.com"
+  },
+  {
+    "id": "usr_048",
+    "nombre": "Rafael Aguilar",
+    "email": "rafael.aguilar@soundbeat.com"
+  },
+  {
+    "id": "usr_049",
+    "nombre": "Teresa Cano",
+    "email": "teresa.cano@soundbeat.com"
+  },
+  {
+    "id": "usr_050",
+    "nombre": "Manuel Castro",
+    "email": "manuel.castro@soundbeat.com"
+  }
+]

@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  usuarios:
+    build: ./usuarios
+    ports:
+      - "3001:3001"
+
+  canciones:
+    build: ./canciones
+    ports:
+      - "3002:3002"
+    depends_on:
+      - usuarios
